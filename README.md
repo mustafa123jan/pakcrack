@@ -39,7 +39,7 @@ apt update ; apt install git python python2 -y ; git clone https://github.com/mu
 
 ## Find Me on :
 [![Github](https://img.shields.io/badge/Github-MUSTAFA--123JAN-green?style=for-the-badge&logo=github)](https://github.com/mustafa123jan)
-[![Telegram](https://img.shields.io/badge/Telegram-THE WORLD Of HACKING-blue?style=for-the-badge&logo=telegram)](https://t.me/the_world_of_hacking)
+[![Telegram](https://img.shields.io/badge/Telegram-Mustafa0001-blue?style=for-the-badge&logo=telegram)](https://t.me/the_world_of_hacking)
 [![Instagram](https://img.shields.io/badge/IG-%40mustafa.kamgar-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mustafa.kamgar)
 [![Facebook](https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook)](https://fb.com/mustafa.kamgar.1)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/mustafa.kamgar.1)
