@@ -1,7 +1,7 @@
 
-# Obfuscated By TAHMID RAYAT | HTR-TECH
-# Github    : https://www.github.com/htr-tech
-# Instagram : https://instagr.am/tahmid.rayat
+# Obfuscated By MUSTAFA KAMGAR | MKAMGAR
+# Github    : https://www.github.com/mustafa123jan
+# Instagram : https://instagr.am/mustafa.kamgar
 # --------------------------------------------
 # Time      : Wed May 19 15:52:35 2021
 # Platform  : Linux armv8l
